@@ -102,10 +102,10 @@
             // 
             // PlayButton
             // 
-            PlayButton.BackColor = SystemColors.ButtonShadow;
+            PlayButton.BackColor = Color.LightGray;
             PlayButton.Enabled = false;
             PlayButton.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            PlayButton.ForeColor = SystemColors.ActiveCaptionText;
+            PlayButton.ForeColor = Color.DarkGray;
             PlayButton.Location = new Point(686, 505);
             PlayButton.Name = "PlayButton";
             PlayButton.Size = new Size(220, 55);
