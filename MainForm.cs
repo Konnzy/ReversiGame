@@ -130,7 +130,7 @@ namespace ReversiGame
                 WhiteLabel.Text = "White: 2";
                 BlackLabel.Text = "Black: 2";
                 playBoard.Invalidate();
-                _aiDepth = 2;
+                _aiDepth = 3;
             }
             else if (clickedButton == HardButton)
             {
