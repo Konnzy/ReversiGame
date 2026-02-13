@@ -44,3 +44,7 @@ This allows the game to scale from beginner-friendly to challenging gameplay.
 5. The AI automatically makes its move after yours.
 6. The game ends when neither side can make a move.
 7. The winner is the player with the most discs on the board.
+
+## 🖼 Screenshots
+<img width="1014" height="599" alt="Screenshot 2026-02-13 101617" src="https://github.com/user-attachments/assets/4bde5ee8-face-4b1d-b970-c468093e2767" />
+<img width="1021" height="600" alt="image" src="https://github.com/user-attachments/assets/d8b86f3b-7d66-4750-94bf-70903c1d362d" />
